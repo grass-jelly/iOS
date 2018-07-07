@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  Hello
+//  Run programs in the labs
 //
 //  Created by Linh Do on 7/4/18.
 //  Copyright © 2018 rmit. All rights reserved.
