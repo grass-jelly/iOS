@@ -10,6 +10,7 @@
 		EB50ED7C20F076D30043EA37 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB50ED7B20F076D30043EA37 /* main.swift */; };
 		EB50ED8520F0787E0043EA37 /* lab2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB50ED8420F0787E0043EA37 /* lab2.swift */; };
 		EB50ED8920F078EB0043EA37 /* lab1.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB50ED8820F078EB0043EA37 /* lab1.swift */; };
+		EB50ED9E20FE7B110043EA37 /* lab3.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB50ED9D20FE7B110043EA37 /* lab3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		EB50ED7B20F076D30043EA37 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EB50ED8420F0787E0043EA37 /* lab2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab2.swift; sourceTree = "<group>"; };
 		EB50ED8820F078EB0043EA37 /* lab1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab1.swift; sourceTree = "<group>"; };
+		EB50ED9D20FE7B110043EA37 /* lab3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				EB50ED7B20F076D30043EA37 /* main.swift */,
 				EB50ED8420F0787E0043EA37 /* lab2.swift */,
 				EB50ED8820F078EB0043EA37 /* lab1.swift */,
+				EB50ED9D20FE7B110043EA37 /* lab3.swift */,
 			);
 			path = iOS;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 				EB50ED8520F0787E0043EA37 /* lab2.swift in Sources */,
 				EB50ED8920F078EB0043EA37 /* lab1.swift in Sources */,
 				EB50ED7C20F076D30043EA37 /* main.swift in Sources */,
+				EB50ED9E20FE7B110043EA37 /* lab3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
